@@ -43,6 +43,6 @@ The following hardware components are required for this project:
 
  References:
 
-•	https://beagleboard.org/
-•	https://beagleboard.org/black
-•	https://ieeexplore.ieee.org/document/7434875
+* https://beagleboard.org/
+* https://beagleboard.org/black
+* https://ieeexplore.ieee.org/document/7434875
