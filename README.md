@@ -1,6 +1,6 @@
 ## Beagle-car
 
-# INTRODUCTION:
+## INTRODUCTION:
 
    An RC car is a radio-controlled vehicle that is operated by a remote control. RC cars can be used for racing, stunts, or simply for fun. In this project, we will build an RC car that is controlled by a BeagleBoard. The BeagleBoard is a small, single-board computer that is designed for embedded applications. It is powerful enough to run a variety of software, including the software that we will use to control the RC car.An RC car is a radio-controlled vehicle that is operated by a remote control. RC cars can be used for racing, stunts, or simply for fun. In this project, we will build an RC car that is controlled by a BeagleBoard. The BeagleBoard is a small, single-board computer that is designed for embedded applications. It is powerful enough to run a variety of software, including the software that we will use to control the RC car.
 
