@@ -1,4 +1,4 @@
-# Beagle-car
+## Beagle-car
 
 INTRODUCTION:
 
@@ -7,19 +7,19 @@ INTRODUCTION:
 HARDWARE:
 
 The following hardware components are required for this project:  
-**•	BeagleBoard
-**•	Motor Controller
-•	DC motor 
-•	Wheels
-•	Web cam
-•	Battery 
-•	USB hub
+* BeagleBoard
+* Motor Controller
+* DC motor 
+* Wheels
+* Web cam
+* Battery 
+* USB hub
 * Connectors
 
 SOFTWARE :
 
-•	OpenCV library.
-•	Python programming language
+* OpenCV library
+* Python programming language
 
 Software Setup:  
 
