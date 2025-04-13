@@ -7,8 +7,8 @@ INTRODUCTION:
 HARDWARE:
 
 The following hardware components are required for this project:  
-*•	BeagleBoard
-*•	Motor Controller
+**•	BeagleBoard
+**•	Motor Controller
 •	DC motor 
 •	Wheels
 •	Web cam
