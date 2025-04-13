@@ -14,7 +14,7 @@ The following hardware components are required for this project:
 •	Web cam
 •	Battery 
 •	USB hub
-*Connectors
+* Connectors
 
 SOFTWARE :
 
